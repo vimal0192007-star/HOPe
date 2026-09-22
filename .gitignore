@@ -1,0 +1,13 @@
+# Environment Variables
+.env
+.env.local
+
+# Node Dependencies
+node_modules/
+
+# Build Output
+dist/
+
+# System & Application Logs
+logs/
+*.log
